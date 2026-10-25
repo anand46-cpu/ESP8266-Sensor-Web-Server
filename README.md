@@ -107,6 +107,7 @@ Example output:
 ESP8266 Sensor Web Server
 
 =========================
+
 LittleFS mounted.
 
 Setup Access Point:
