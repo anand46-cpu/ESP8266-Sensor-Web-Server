@@ -103,7 +103,9 @@ The serial output should indicate that the device has started, the setup access 
 
 Example output:
 
+
 ESP8266 Sensor Web Server
+
 =========================
 LittleFS mounted.
 
